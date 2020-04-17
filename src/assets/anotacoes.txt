@@ -1,0 +1,6 @@
+Dentro da pasta assets normalmente ficam o arquivos de imagem ou outros arquivos
+a serem exibidos.
+
+Tag usada pra declarar uma imagem dentro do header
+
+- <img width={400} src={backgroundImage} />
